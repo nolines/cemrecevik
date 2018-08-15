@@ -1,7 +1,7 @@
 title: Cemre Cevik
 description: Basic portfolio page made with jekyll
-baseurl: "/cemrecevik" # the subpath of your site, e.g. /blog
-url: "https://nolines.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://nolines.github.io/cemrecevik" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Cemre Çevik
@@ -16,7 +16,7 @@ social-twitter:
 social-facebook:
 social-github:    nolines
 social-pinterest: 
-social-instagram: cevikcemre
+social-instagram: cemrecevik
 social-youtube:
 social-vk:   
 social-linkedin:
