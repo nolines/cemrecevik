@@ -1,6 +1,6 @@
 title: Cemre Cevik
 description: Basic portfolio page made with jekyll
-baseurl: "/cemrecevik" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://nolines.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
