@@ -1,22 +1,22 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: Cemre Cevik
+description: Basic portfolio page made with jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://nolines.github.io/cemrecevik" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    Cemre Çevik
 author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-job:     Software Engineer
+author-email:   cemrecevik@gmail.com # Add your email for contant form.
+author-twitter:  # Add your twitter account
+about-author:   I am a full stack developer focusing on Java, Javascript and Amazon Web Services technologies. Always hungry to keep learning.
 
 # Social settings
-social-twitter:   artemsheludko_
+social-twitter:   
 social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-github:    nolines
+social-pinterest: 
+social-instagram: cevikcemre
 social-youtube:
 social-vk:   
 social-linkedin:
